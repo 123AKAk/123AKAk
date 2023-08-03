@@ -61,7 +61,7 @@ I leverage AWS for cloud-based solutions. Explore the [Serverless App](http://te
 I focus on seamless integration and modularity in program design. Explore the [Module Integrator](link-to-repo) project to see my program design integration skills.
 
 ## GitHub Stats
-![Eyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesdoe&show_icons=true&count_private=true&hide=issues&hide_border=true&hide_title=true)
+![Eyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=123AKAk&show_icons=true&count_private=true&hide=issues&hide_border=true&hide_title=true)
 
 ## Socials
 - GitHub: [github.com/123AKAk](https://github.com/123AKAk)
