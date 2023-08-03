@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Eyo's GitHub Repository
+# Eyo's Repository
 
 - 🔭 I’m currently working on a Mobile Application ...
 - 🌱 I’m currently learning Node Js
