@@ -19,13 +19,13 @@ I thrive on challenging projects that require detailed coding, web optimization,
 ## Skills
 
 ### C#
-As a proficient C# developer, I've worked on several desktop applications and backend services. Check out the [EyoBiometricApp]((https://github.com/123AKAk/EyoBiometricApp)) to see a sample project demonstrating my C# expertise.
+As a proficient C# developer, I've worked on several desktop applications and backend services. Check out the [EyoBiometricApp](https://github.com/123AKAk/EyoBiometricApp) to see a sample project demonstrating my C# expertise.
 
 ### React
-For building modern and interactive user interfaces, I turn to React. The [Calabar Tech Community]((https://github.com/CALABAR-TECH-COMMUNITY/CTC-Website-Project)) project illustrates my ability to create dynamic web applications using React.
+For building modern and interactive user interfaces, I turn to React. The [Calabar Tech Community](https://github.com/CALABAR-TECH-COMMUNITY/CTC-Website-Project) project illustrates my ability to create dynamic web applications using React.
 
 ### HTML and CSS
-Web development forms the foundation of my skill set. Explore the [Layout]((https://github.com/123AKAk/layout)) I've built to see my HTML and CSS prowess in action.
+Web development forms the foundation of my skill set. Explore the [Layout](https://github.com/123AKAk/layout) I've built to see my HTML and CSS prowess in action.
 
 ### JavaScript
 My proficiency in JavaScript allows me to add functionality and interactivity to web applications.
@@ -34,7 +34,7 @@ My proficiency in JavaScript allows me to add functionality and interactivity to
 Efficiency is key in web development. I focus on optimizing web applications for performance and speed. Check out the [Performance Tuner](link-to-repo) project to see my web optimization skills.
 
 ### WPF - Desktop Development
-Windows Presentation Foundation (WPF) is a powerful tool for creating rich desktop applications. The [Pharmacy App]((https://github.com/123AKAk/Pharmacy-App)) demonstrates my expertise in WPF development.
+Windows Presentation Foundation (WPF) is a powerful tool for creating rich desktop applications. The [Pharmacy App](https://github.com/123AKAk/Pharmacy-App) demonstrates my expertise in WPF development.
 
 ### Content Management System
 CMS management is crucial for maintaining dynamic websites.
@@ -46,16 +46,16 @@ Security is a top priority for every web application I develop.
 I ensure that my applications look great on all devices.
 
 ### Technical Writing
-I am adept at writing clear and concise technical documentation. The [API Documentation]((https://documenter.getpostman.com/view/23257877/2s9Xxwxa8d)) project reflects my technical writing skills.
+I am adept at writing clear and concise technical documentation. The [API Documentation](https://documenter.getpostman.com/view/23257877/2s9Xxwxa8d) project reflects my technical writing skills.
 
 ### Microsoft SQL Server
 As a database developer, I work extensively with Microsoft SQL Server. 
 
 ### PHP
-PHP is a versatile language for web development, and I've used it in several projects. Check out the [E-commerce Website]((https://github.com/123AKAk/completeEcommercePhp)) to see my PHP coding abilities.
+PHP is a versatile language for web development, and I've used it in several projects. Check out the [E-commerce Website](https://github.com/123AKAk/completeEcommercePhp) to see my PHP coding abilities.
 
 ### AWS (Amazon Web Services)
-I leverage AWS for cloud-based solutions. Explore the [Serverless App]((http://teteefikdictionary.org/)) project to see how I use AWS services effectively.
+I leverage AWS for cloud-based solutions. Explore the [Serverless App](http://teteefikdictionary.org/) project to see how I use AWS services effectively.
 
 ### Program Design Integration
 I focus on seamless integration and modularity in program design. Explore the [Module Integrator](link-to-repo) project to see my program design integration skills.
